@@ -1,0 +1,18 @@
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="firth_text" >Комунальне господарство</string>
+    <string name="second_text" >Створено</string>
+    <string name="Third_text">Зареєстровано</string>
+    <string name="Fourth_text" >Виконати до</string>
+    <string name="Fiveth_text" >Відповідальний</string>
+    <string name="Sixth_text" >В роботі</string>
+    <string name="Seventh_text" >27 січня 2016</string>
+    <string name="Eightth_text" >27 січня 2016</string>
+    <string name="Tenth_text" >27 січня 2016</string>
+    <string name="Eleventh_text" >Дніпропетровський МВК</string>
+    <string name="Longtext" >- Слушай, друг, объясни мне, почему каждый раз, когда твоя
+жена начинает петь, ты выходишь на балкон?
+- Просто, чтобы никто не подумал, что я ее избиваю...</string>
+
+</resources>
