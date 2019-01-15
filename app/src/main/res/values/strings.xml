@@ -18,4 +18,5 @@
 "Listen, friend, explain to me why every time yours
 wife starts to sing, do you go out to the balcony?
 "It's just that nobody thinks I'm beating her ..."</string>
+    <string name="app_name" translatable="false" />
 </resources>

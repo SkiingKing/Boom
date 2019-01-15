@@ -12,7 +12,7 @@ private Toolbar toolbar;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        toolbar = findViewById(R.id.toolbar);
+        toolbar = findViewById(R.id.toolbar_actionbar);
         setSupportActionBar(toolbar);
     }
     @Override

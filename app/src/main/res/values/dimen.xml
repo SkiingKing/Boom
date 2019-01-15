@@ -2,7 +2,7 @@
 <resources>
     
     <dimen name="defalt_text_size">22sp</dimen>
-    <dimen name="text_size">18sp</dimen>
+    <dimen name="text_size">20sp</dimen>
 
     
     
